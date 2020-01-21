@@ -1,0 +1,12 @@
+1° Abra o Arquivo Twitch_socket.py
+2° Vá até esse link https://twitchapps.com/tmi/ , copie o código e cole na variável Token
+3° Coloque o seu nickname da twitch e o seu chat.
+
+Desenvolvido no Python 3.8.1
+
+Caso precise das libs use os comandos no cmd
+
+pip install emoji
+pip install ctypes
+pip install logging
+pip install socket

@@ -1,0 +1,17 @@
+Comandos para inserir no chat
+
+Comandos base
+r => Direita
+l => Esquerda
+j0 => Pulo Fraco
+j1 => Pulo Médio
+j2 => Pulo Forte
+
+Comandos mistos
+jr0 => Pulo Fraco Direita
+jr1 => Pulo Médio Direita
+jr2 => Pulo Forte Direita
+
+jl0 => Pulo Fraco Esquerda
+jl1 => Pulo Médio Esquerda
+jl2 => Pulo Forte Esquerda
